@@ -1,12 +1,7 @@
 Project 1: Tokenizer
-====================
-# Instructions:
-
-You should document your tokenizer in this file.
-
-This file is written in the refreshingly simple `markdown` text
-formatting language.
-
-To learn about text formatting using markdown, we encourage you to examine 
- - [../README.md](../README.md)
- - the online [Markdown Guide](https://www.markdownguide.org/).
+=====================
+To run the program one must run ./project1tokenizer
+The program is ready for input when '>' appears
+Enter the string to be tokenized
+Enter '@' plus the number of the string you want to retrieve from history
+Enter '0' to exit program and get history of strings entered
